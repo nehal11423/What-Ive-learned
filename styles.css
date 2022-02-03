@@ -1,0 +1,16 @@
+body{
+    margin:0;
+    padding:0;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height:100vh;
+    background-color:black;
+}
+p{
+    font-size:10px;
+    line-height:10px;
+background:url(https://wallpapercave.com/uwp/uwp1604432.jpeg);
+    background-size:950px;
+    background-attachment:fixed;
+}
